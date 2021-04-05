@@ -37,6 +37,7 @@ Here's my most recent list of piano music that I've been learning:
 - [x] Etude Op. 25 No. 12 by Frederic Chopin
 - [x] Fantaisie Impromptu Op. 66 by Frederic Chopin
 - [ ] Concert Etude No. 3 by Franz Liszt
+
 A checked box only means I have learned the entirety of the piece. Not claiming to be able to play it well.
 
 [Complete List of Contributors](contributors.md)
