@@ -1,7 +1,9 @@
 # Jonathan Deguzman
 ## I am a third year CE Major at UCSD.
 [Personal Description](#about-me)
+
 [Programming Description](#about-me-in-terms-of-programming)
+
 [More Personal Info](#what-about-non-programming-related-things)
 ### About Me:
 My nicknames vary greatly, but generally people call me Jonathan or JD. ***All other nicknames must be manually discovered in order to unlock their usage.*** I'm 21 years old and have lived in San Diego my entire life. I went to La Jolla High School and played indoor & beach volleyball. I am also Catholic.
