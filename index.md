@@ -11,8 +11,10 @@ My nicknames vary greatly, but generally people call me Jonathan or JD. ***All o
 My programming experience began junior year of high school in which I chose out of interest from my childhood experiences with video games. I like to think that ~~some of~~ the games I used to play really do improves one's ability to code and understand code behavior. In terms of non-academic experience, I have only made a small Java game and am currently working on a larger-scale board game in Unity. It does not look like much experience but I promise I'm good at coding. I also took a C++ course at Stanford in 2017.
 I don't have anything to show for the Unity game yet, but [this](https://www.youtube.com/watch?v=jf_Rdp6zsw4) is very similar to what it will look like.
 > "What's your favorite kind of code to type Jonathan?"
+
 My favorite kind of code to type is probably when you use non void functions for something that's not just assignment.
 >"Can you please give an example of this Jonathan??"
+
 Ok.
 ```
 Board.SetValid(currentPiece.getSurfaceIndex(i), true);
