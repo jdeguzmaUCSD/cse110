@@ -1,1 +1,1 @@
-# cse110
+https://github.com/jdeguzmaUCSD/cse110/blob/main/index.md
